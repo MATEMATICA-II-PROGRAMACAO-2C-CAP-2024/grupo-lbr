@@ -12,3 +12,12 @@ body{
     margin: 0;
     padding: 0;
 }
+
+.conteudo-principa{
+    background-image:url("./img/painel-barbie-dreamhouse-03-2-00x1-50-barbie.webpi");
+    background-repeat:no-repeat;
+}
+
+.container{
+    height:100vh
+}
