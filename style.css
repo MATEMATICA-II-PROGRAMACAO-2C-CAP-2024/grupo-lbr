@@ -41,12 +41,12 @@ body{
     margin-bottom: 1em;
 }
 
-.botao__secundario{
+.container__secundario__botao{
     background-color: transparent;
     border: 2 solid var(--branco-principal);
 }
 
-.container_aviso{
+.container__aviso{
     font-size: 12px;
     color: var(--cinza-segundario);
 }
